@@ -1,4 +1,4 @@
-# LIBs of VSLAM(or slambook2 of gaoxiang)
+# LIBs of VSLAM
 
 ## Eigen
 
